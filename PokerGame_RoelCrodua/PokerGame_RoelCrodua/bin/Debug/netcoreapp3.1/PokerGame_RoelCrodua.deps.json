@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PokerGame_RoelCrodua/1.0.0": {
+        "runtime": {
+          "PokerGame_RoelCrodua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokerGame_RoelCrodua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
